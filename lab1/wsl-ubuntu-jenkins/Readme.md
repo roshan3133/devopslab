@@ -16,6 +16,7 @@ Enable the Windows Subsystem for Linux feature: To do this, open the Start menu 
 Install a Linux distribution: Once the WSL feature is enabled, you can install a Linux distribution from the Microsoft Store or from the command line. To install a distribution from the Store, open the Store app, search for your desired distribution (e.g. Ubuntu), and click "Get". To install a distribution from the command line, open PowerShell or Command Prompt and run the following command: 
 
 wsl --install -d <distro>, where <distro> is the name of the distribution you want to install (e.g. Ubuntu).
+
 3. wsl --install -d Ubuntu-22.04  #this will install ubuntu on windows 
 
 Set up your Linux distribution: Once the distribution is installed, open it from the Start menu or by running the wsl command. The first time you run the distribution, you will be prompted to create a user account and set a password.
