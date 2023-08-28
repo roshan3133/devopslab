@@ -1,4 +1,4 @@
-# Setting Up WSL with Ubuntu and Jenkins
+# Setting Up WSL with Ubuntu and Jenkins on Windows
 
 This guide walks you through the process of setting up Windows Subsystem for Linux (WSL) with Ubuntu and Jenkins on your Windows machine. This will enable you to run Jenkins within the Ubuntu environment.
 
