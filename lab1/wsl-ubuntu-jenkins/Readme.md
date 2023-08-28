@@ -6,7 +6,7 @@ This guide walks you through the process of setting up Windows Subsystem for Lin
 
 - To install WSL on Windows, you can follow these steps:
 
-### Step 1: Enable WSL
+### Step 1: Install WSL
 1. Open PowerShell as Administrator.
 2. Run the command: `wsl --install`.
    
