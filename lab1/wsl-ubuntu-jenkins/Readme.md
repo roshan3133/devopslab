@@ -2,13 +2,13 @@
 
 This guide walks you through the process of setting up Windows Subsystem for Linux (WSL) with Ubuntu and Jenkins on your Windows machine. This will enable you to run Jenkins within the Ubuntu environment.
 
-## Prerequisites
+## Prerequisites - wsl only
 
 - To install WSL on Windows, you can follow these steps:
-
-### Step 1: Install WSL2
-1. Open PowerShell as Administrator.
-2. Run the command: `wsl --install`.
+### Step 1: Install WSL
+1. open MS store and search for wsl and install.
+2. Open PowerShell as Administrator.
+3. Run the command: `wsl --install`.
    
 Ensure that your version of Windows 10/11 is up-to-date: WSL requires Windows 10 version 2004 or later. To check your version of Windows, go to Settings > System > About and look for the "Version" number.
 Enable the Windows Subsystem for Linux feature: To do this, open the Start menu and search for "Turn Windows features on or off". Select this option and find the "Windows Subsystem for Linux" feature in the list. Check the box next to it and click "OK". Windows will download and install the necessary files for WSL.
